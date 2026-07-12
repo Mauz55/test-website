@@ -9,7 +9,7 @@ export default function Home() {
         </span>
 
         <h1 className="font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
-          Test Website v2
+          Test Website v3
         </h1>
 
         <p className="max-w-md text-base leading-relaxed text-ink/70 sm:text-lg">
